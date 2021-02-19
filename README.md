@@ -1,4 +1,7 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xmxe&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 ### Hi there 👋
+I'm a very young developer. Although I'm not young, I hope i am better than yesterday every day. Although I don't have star in my repositories, I'm still working hard
 
 <!--
 **xmxe/xmxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
